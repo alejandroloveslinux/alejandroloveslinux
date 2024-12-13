@@ -14,7 +14,7 @@
 
 <!-- Snake -->
 <div align="center">
-  <img src="https://github.com/alejandroloveslinux/alejandroloveslinux/raw/readme/resources/grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/alejandroloveslinux/alejandroloveslinux/refs/heads/main/github-user-contribution.svg" alt="snake">
 </div>
 
 <!-- Intro start -->
